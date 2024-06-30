@@ -36,6 +36,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/hello-jenkins/",
               "budgets": [
                 {
                   "type": "initial",
